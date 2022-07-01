@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Desktop_COntroller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.123</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">controller</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bopismaster101!</Value>
+    </Setting>
+    <Setting Name="ipv4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="keyFetcher" Type="System.String" Scope="User">
+      <Value Profile="(Default)">deactivated</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
